@@ -33,7 +33,7 @@ To run the project and view the top N frequent words:
 - Modify the URL in the script to point to an article of your choice.
 - Run the script to extract the article content, clean the text, and analyze the word frequency.
 - Use the head() function to display the top N most frequent words (e.g., top 10, top 50, top 100).
-- 
+  
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. 
 
